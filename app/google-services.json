@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "505155054605",
+    "project_id": "fullauth-7cd14",
+    "storage_bucket": "fullauth-7cd14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505155054605:android:10edf6497c90ff1f293944",
+        "android_client_info": {
+          "package_name": "com.example.fullauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFfOzo_BgD8fNMrUXrLZ2qg3ZlYu-MSbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
